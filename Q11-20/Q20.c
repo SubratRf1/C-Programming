@@ -40,5 +40,5 @@
                 printf("Invalid day number. Please enter a value from 1 to 7.\n");
         }
 
-        return 0;
+        return 0; 
     }
