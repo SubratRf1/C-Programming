@@ -1,6 +1,6 @@
 # C-Programming
 
-This repository contains my **30 Days of C Programming Challenge**.
+This repository contains my **100 Days of C Programming Challenge**.
 
 ---
 
